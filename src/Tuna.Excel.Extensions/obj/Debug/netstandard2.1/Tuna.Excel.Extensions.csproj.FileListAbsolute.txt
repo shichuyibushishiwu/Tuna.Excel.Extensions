@@ -1,0 +1,10 @@
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\bin\Debug\netstandard2.1\Tuna.Excel.Extensions.deps.json
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\bin\Debug\netstandard2.1\Tuna.Excel.Extensions.dll
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\bin\Debug\netstandard2.1\Tuna.Excel.Extensions.pdb
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\obj\Debug\netstandard2.1\Tuna.Excel.Extensions.csproj.AssemblyReference.cache
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\obj\Debug\netstandard2.1\Tuna.Excel.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\obj\Debug\netstandard2.1\Tuna.Excel.Extensions.AssemblyInfoInputs.cache
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\obj\Debug\netstandard2.1\Tuna.Excel.Extensions.AssemblyInfo.cs
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\obj\Debug\netstandard2.1\Tuna.Excel.Extensions.csproj.CoreCompileInputs.cache
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\obj\Debug\netstandard2.1\Tuna.Excel.Extensions.dll
+H:\Github\Tuna.Excel.Extensions\src\Tuna.Excel.Extensions\obj\Debug\netstandard2.1\Tuna.Excel.Extensions.pdb

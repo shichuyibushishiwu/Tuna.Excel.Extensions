@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Tests\\Tuna.Excel.Tests.csproj": {}
+  },
+  "projects": {
+    "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Extensions\\Tuna.Excel.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Extensions\\Tuna.Excel.Extensions.csproj",
+        "projectName": "Tuna.Excel.Extensions",
+        "projectPath": "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Extensions\\Tuna.Excel.Extensions.csproj",
+        "packagesPath": "C:\\Users\\29135\\.nuget\\packages\\",
+        "outputPath": "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\VisualStudio2019\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\29135\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Tests\\Tuna.Excel.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Tests\\Tuna.Excel.Tests.csproj",
+        "projectName": "Tuna.Excel.Tests",
+        "projectPath": "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Tests\\Tuna.Excel.Tests.csproj",
+        "packagesPath": "C:\\Users\\29135\\.nuget\\packages\\",
+        "outputPath": "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\VisualStudio2019\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\29135\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Extensions\\Tuna.Excel.Extensions.csproj": {
+                "projectPath": "H:\\Github\\Tuna.Excel.Extensions\\src\\Tuna.Excel.Extensions\\Tuna.Excel.Extensions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
